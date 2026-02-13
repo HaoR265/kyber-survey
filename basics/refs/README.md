@@ -48,3 +48,8 @@
 ## 5. Notes Link
 - 基础笔记：`basics/` 下自行新建
 - 如果某条文献对应到更深的分析/工程，再在 `analysis/` 或 `engineering/` 的 refs 里重复登记一次。
+
+
+## 6. Citation Files
+- BibTeX: `basics/refs/references.bib`
+- Citation keys: `basics/refs/KEYS.md`
